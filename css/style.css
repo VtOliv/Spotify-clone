@@ -171,3 +171,8 @@ section {
     width: 100%;
     padding-left: 10%;
 }
+
+button:hover {
+    transform: scale(1.05);
+    box-shadow: 1px 2px #383838;
+}
